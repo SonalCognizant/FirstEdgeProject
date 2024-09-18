@@ -146,6 +146,12 @@ main > div {
   margin: 40px 16px;
 }
 
+main > .section> .default-content-wrapper h3{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
 input,
 textarea,
 select,
